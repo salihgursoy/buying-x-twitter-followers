@@ -1,0 +1,16 @@
+```json
+{
+  "account_id": 39102,
+  "followers": 84,
+  "impression_spread": "narrow",
+  "engagement_ratio": "volatile",
+  "retention_curve": "unstable"
+}
+
+{
+  "account_id": 39102,
+  "followers": 214,
+  "impression_spread": "widened",
+  "engagement_ratio": "normalized",
+  "retention_curve": "stable"
+}
